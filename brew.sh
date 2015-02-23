@@ -23,7 +23,7 @@ brew install homebrew/dupes/screen
 # brew casks
 
 brew install caskroom/cask/brew-cask
-export HOMEBREW_CASK_OPTS="--appdir=/Applications
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 sudo -v
 
