@@ -8,6 +8,7 @@ brew update
 brew install zsh
 brew install git
 brew install node
+brew install maven
 
 # Install Bash 4.
 # Note: don’t forget to add `/usr/local/bin/bash` to `/etc/shells` before
