@@ -1,11 +1,11 @@
 sudo -v
 
-brew install zsh
-zsh
-chsh -s $(which zsh)
 cd ~/dev
 git clone https://github.com/zsh-users/antigen.git
 cd -
+brew install zsh
 cp .zshrc ~/
+cp .zshenv ~/
+zsh
+chsh -s $(which zsh)
 cp .exports ~/
-
