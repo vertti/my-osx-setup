@@ -42,5 +42,8 @@ brew cask install spotify
 brew cask install caffeine
 brew cask install sourcetree
 
+brew cask install lastpass
+open "/opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app"
+
 
 brew cleanup
