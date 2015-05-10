@@ -31,6 +31,7 @@ sudo -v
 
 brew cask install java
 brew cask install caskroom/versions/java7
+brew cask install caskroom/homebrew-versions/java6
 brew cask install google-chrome
 brew cask install alfred
 brew cask install vlc
@@ -42,6 +43,7 @@ brew cask install spotify
 brew cask install caffeine
 brew cask install sourcetree
 brew cask install cleanmymac
+brew cask install intellij-idea
 
 brew cask install lastpass
 open "/opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app"
