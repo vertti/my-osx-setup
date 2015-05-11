@@ -1,4 +1,4 @@
-dockutil --add file:///opt/homebrew-cask/Caskroom/google-chrome/latest/Google%20Chrome.app/ --after Launchpad
+dockutil --add "/Applications/Google Chrome.app" --after Launchpad
 dockutil --remove Safari
 dockutil --remove Mail
 dockutil --remove Contacts
