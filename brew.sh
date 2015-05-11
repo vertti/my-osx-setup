@@ -5,12 +5,16 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew update
 
 # brew installs
+brew install coreutils
 brew install zsh
 brew install git
 brew install node
 brew install maven
 brew install dockutil
 brew install android-sdk
+brew install ack
+brew install imagemagick
+brew install wget
 
 # Install Bash 4.
 # Note: don’t forget to add `/usr/local/bin/bash` to `/etc/shells` before
@@ -48,6 +52,7 @@ brew cask install intellij-idea
 brew cask install private-internet-access
 brew cask install keka
 brew cask install android-file-transfer
+brew cask install imageoptim
 brew cask install lastpass
 open "/opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app"
 
