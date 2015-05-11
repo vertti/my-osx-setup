@@ -6,6 +6,6 @@ cd -
 brew install zsh
 cp .zshrc ~/
 cp .zshenv ~/
+cp .exports ~/
 zsh
 chsh -s $(which zsh)
-cp .exports ~/
