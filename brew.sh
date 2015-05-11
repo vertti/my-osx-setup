@@ -45,6 +45,7 @@ brew cask install sourcetree
 brew cask install cleanmymac
 brew cask install intellij-idea
 brew cask install private-internet-access
+brew cask install keka
 brew cask install lastpass
 open "/opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app"
 
