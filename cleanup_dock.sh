@@ -7,6 +7,7 @@ dockutil --remove iBooks
 dockutil --remove iTunes
 dockutil --remove FaceTime
 dockutil --remove Messages
+dockutil --remove Photos
 dockutil --remove "Microsoft PowerPoint"
 dockutil --remove "Microsoft Lync"
 dockutil --remove "Microsoft Outlook"
