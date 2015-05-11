@@ -10,6 +10,7 @@ brew install git
 brew install node
 brew install maven
 brew install dockutil
+brew install android-sdk
 
 # Install Bash 4.
 # Note: don’t forget to add `/usr/local/bin/bash` to `/etc/shells` before
@@ -46,6 +47,7 @@ brew cask install cleanmymac
 brew cask install intellij-idea
 brew cask install private-internet-access
 brew cask install keka
+brew cask install android-file-transfer
 brew cask install lastpass
 open "/opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app"
 
