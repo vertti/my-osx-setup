@@ -4,6 +4,8 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 brew update
 
+brew tap homebrew/dupes
+
 # brew installs
 brew install coreutils
 brew install zsh
@@ -22,10 +24,11 @@ brew install wget
 brew install bash
 brew install bash-completion
 
-brew install homebrew/dupes/grep
-brew install homebrew/dupes/openssh
-brew install homebrew/dupes/screen
-
+brew install grep
+brew install openssh
+brew install screen
+brew install less
+brew install nano
 
 # brew casks
 
