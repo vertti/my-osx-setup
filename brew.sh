@@ -26,6 +26,7 @@ brew install bash-completion
 
 brew install grep
 brew install openssh
+brew install ssh-copy-id
 brew install screen
 brew install less
 brew install nano
