@@ -58,6 +58,7 @@ brew cask install keka
 brew cask install android-file-transfer
 brew cask install imageoptim
 brew cask install flux
+brew cask install eve
 brew cask install lastpass
 open "/opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app"
 
