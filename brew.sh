@@ -60,10 +60,9 @@ brew cask install imageoptim
 brew cask install flux
 brew cask install eve
 brew cask install lastpass
+brew cask install iterm2
 open "/opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app"
 
 
 brew cleanup
 
-# run this last as it kills the terminal
-brew cask install totalterminal
