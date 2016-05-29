@@ -30,6 +30,8 @@ brew install ssh-copy-id
 brew install screen
 brew install less
 brew install nano
+# fast grep alternative
+brew install ag
 
 # brew casks
 
@@ -53,7 +55,6 @@ brew cask install caffeine
 brew cask install sourcetree
 brew cask install cleanmymac
 brew cask install intellij-idea
-brew cask install private-internet-access
 brew cask install keka
 brew cask install android-file-transfer
 brew cask install imageoptim
