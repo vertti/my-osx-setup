@@ -46,7 +46,6 @@ brew cask install vlc
 brew cask install firefox
 brew cask install dropbox
 brew cask install skype
-brew cask install sublime-text
 brew cask install spotify
 brew cask install caffeine
 brew cask install sourcetree
@@ -56,9 +55,10 @@ brew cask install keka
 brew cask install android-file-transfer
 brew cask install imageoptim
 brew cask install flux
-brew cask install eve
 brew cask install lastpass
 brew cask install iterm2
+brew cask install atom
+brew cask install google-drive
 open "/opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app"
 
 
