@@ -57,7 +57,7 @@ brew cask install imageoptim
 brew cask install flux
 brew cask install lastpass
 brew cask install iterm2
-brew cask install atom
+brew cask install visual-studio-code
 brew cask install google-drive
 open '/usr/local/Caskroom/lastpass/latest/LastPass Installer/LastPass Installer.app'
 
