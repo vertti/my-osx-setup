@@ -11,7 +11,6 @@ brew install coreutils
 brew install zsh
 brew install git
 brew install node
-brew install maven
 brew install dockutil
 brew install android-sdk
 brew install ack
@@ -38,6 +37,7 @@ brew install ag
 sudo -v
 
 brew cask install java
+brew install maven
 brew cask install caskroom/versions/java7
 brew cask install caskroom/homebrew-versions/java6
 brew cask install google-chrome
