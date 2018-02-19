@@ -59,8 +59,7 @@ brew cask install lastpass
 brew cask install iterm2
 brew cask install atom
 brew cask install google-drive
-open "/opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app"
-
+open '/usr/local/Caskroom/lastpass/latest/LastPass Installer/LastPass Installer.app'
 
 brew cleanup
 
