@@ -31,6 +31,9 @@ defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
 # Disable the sudden motion sensor as it’s not useful for SSDs
 sudo pmset -a sms 0
 
+# Disable captivate wlan login popups (login with normal browser instead)
+sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.captive.control Active -boolean false
+
 # Finder: show hidden files by default
 defaults write com.apple.finder AppleShowAllFiles -bool true
 
