@@ -58,6 +58,10 @@ defaults write com.apple.dock launchanim -bool false
 # Only use UTF-8 in Terminal.app
 defaults write com.apple.terminal StringEncodings -array 4
 
+# Disable Crash Reporter
+sudo defaults write com.apple.CrashReporter DialogType none
+
+
 ###############################################################################
 # Time Machine                                                                #
 ###############################################################################
