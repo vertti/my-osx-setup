@@ -11,7 +11,7 @@ brew update
 brew install coreutils
 brew install zsh
 brew install git
-brew install node
+brew install nvm
 brew install dockutil
 brew install ack
 brew install imagemagick
