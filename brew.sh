@@ -20,15 +20,12 @@ brew install ssh-copy-id
 brew install screen
 brew install less
 brew install nano
-# fast grep alternative
-brew install ag
 
 # brew casks
 
 sudo -v
 
 brew cask install java
-brew install maven
 brew cask install google-chrome
 brew cask install alfred
 brew cask install vlc
