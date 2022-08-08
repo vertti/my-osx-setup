@@ -23,12 +23,12 @@ brew install ssh-copy-id
 brew install screen
 brew install less
 brew install nano
+brew install java
 
 # brew casks
 
 sudo -v
 
-brew install --cask java
 brew install --cask google-chrome
 brew install --cask alfred
 brew install --cask vlc
