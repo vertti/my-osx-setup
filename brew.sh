@@ -40,6 +40,5 @@ brew install --cask lastpass
 brew install --cask iterm2
 brew install --cask visual-studio-code
 brew install --cask google-drive
-open '/usr/local/Caskroom/lastpass/latest/LastPass Installer/LastPass Installer.app'
 
 brew cleanup
