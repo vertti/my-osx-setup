@@ -28,18 +28,18 @@ brew install nano
 
 sudo -v
 
-brew cask install java
-brew cask install google-chrome
-brew cask install alfred
-brew cask install vlc
-brew cask install firefox
-brew cask install dropbox
-brew cask install spotify
-brew cask install caffeine
-brew cask install lastpass
-brew cask install iterm2
-brew cask install visual-studio-code
-brew cask install google-drive
+brew install --cask java
+brew install --cask google-chrome
+brew install --cask alfred
+brew install --cask vlc
+brew install --cask firefox
+brew install --cask dropbox
+brew install --cask spotify
+brew install --cask caffeine
+brew install --cask lastpass
+brew install --cask iterm2
+brew install --cask visual-studio-code
+brew install --cask google-drive
 open '/usr/local/Caskroom/lastpass/latest/LastPass Installer/LastPass Installer.app'
 
 brew cleanup
