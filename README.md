@@ -8,6 +8,5 @@ Contains the following scripts:
 It will also install `Caskroom` and use that to install things like Chrome, VLC, Spotify etc.
 * `cleanup_dock.sh` adds Chrome next to Launchpad in your dock and then remove many of the defaults in the dock like Photos, Safari, Email etc.
 * `osx_tweaks.sh` runs bunch of commandline tweaks to how OSX works. I've picked stuff that suits my style from bunch of longer dotfiles repositories here in GitHub.
-* `setup_zsh.sh` sets up my ZShell the way I want it with Antigen and bunch of plugins.
 
 
