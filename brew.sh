@@ -30,7 +30,7 @@ brew install java
 sudo -v
 
 brew install --cask google-chrome
-brew install --cask alfred
+brew install --cask raycast
 brew install --cask vlc
 brew install --cask firefox
 brew install --cask dropbox
