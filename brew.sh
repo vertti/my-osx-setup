@@ -35,5 +35,6 @@ brew install --cask caffeine
 brew install --cask keeper-password-manager
 brew install --cask iterm2
 brew install --cask visual-studio-code
+brew install --cask slack
 
 brew cleanup
