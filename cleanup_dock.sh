@@ -8,8 +8,9 @@ dockutil --remove Messages
 dockutil --remove Photos
 dockutil --remove Music
 dockutil --remove TV
-dockutil --remove Podcasts
 dockutil --remove Keynote
 dockutil --remove Numbers
 dockutil --remove Pages
-
+dockutil --remove Reminders
+dockutil --remove Freeform
+dockutil --remove Calendar
