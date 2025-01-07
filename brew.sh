@@ -22,7 +22,6 @@ brew install ssh-copy-id
 brew install screen
 brew install less
 brew install nano
-brew install java
 
 # brew casks
 
