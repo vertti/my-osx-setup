@@ -31,12 +31,9 @@ brew install --cask google-chrome
 brew install --cask raycast
 brew install --cask vlc
 brew install --cask firefox
-brew install --cask dropbox
-brew install --cask spotify
 brew install --cask caffeine
 brew install --cask keeper-password-manager
 brew install --cask iterm2
 brew install --cask visual-studio-code
-brew install --cask google-drive
 
 brew cleanup
