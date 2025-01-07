@@ -13,7 +13,6 @@ brew install zsh
 brew install git
 brew install fnm
 brew install dockutil
-brew install ack
 brew install imagemagick
 brew install wget
 
